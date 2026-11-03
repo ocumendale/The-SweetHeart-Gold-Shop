@@ -18,10 +18,9 @@ For a more comprehensive discussion of the project, including its background, ob
 
 | Details | Description |
 |---|---|
-| Project Name | Sweetheart Gold Shop |
+| Project Name | SweetHeart Gold Shop |
 | Project Type | Academic Capstone Project |
 | Development | Collaborative Group Project |
-| Repository Type | Fork |
 | Purpose | Personal Developer Portfolio |
 
 ---
