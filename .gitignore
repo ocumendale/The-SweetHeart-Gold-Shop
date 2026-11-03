@@ -19,8 +19,3 @@ Thumbs.db
 
 # Customer identification uploads
 /customer/uploads/customer_ids/
-
-# Environment and sensitive files
-.env
-.env.*
-!.env.example
