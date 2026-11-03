@@ -1,0 +1,33 @@
+[
+    {
+        "id":1 ,
+        "name": "Heart Necklace",
+        "price": 12999,
+        "image": "Assets/image/productImage/Necklace/HeartNecklace18_11590.jpg",
+        "variant": [11590, 12999],
+        "description":" Elevate your elegance with this timeless 18-karat gold heart necklace—a perfect blend of simplicity and sophistication. Crafted with precision, the delicate heart pendant rests gracefully on a fine gold chain, making it an ideal symbol of love, affection, and refined taste. Whether worn alone for a subtle statement or layered for added charm, this necklace is a versatile addition to any jewelry collection. A beautiful gift for anniversaries, birthdays, or simply to say I love you."
+    },
+    {
+        "id":2 ,
+        "name": "Zodiac Sign",
+        "price": 5699,
+        "image": "Assets/image/productImage/Necklace/zodiacSignNecklacepic1.jpg",
+        "description":"Celebrate your cosmic identity with our 18-karat gold zodiac necklace—a piece as unique as your star sign. Expertly crafted with a radiant gold finish, each pendant showcases a beautifully detailed zodiac symbol that reflects your personality, destiny, and inner power."
+    },
+    {
+        "id": 3,
+        "name": "Bird Cage Women Necklace",
+        "price": 8999,
+        "image": "Assets/image/productImage/Necklace/BirdCage.jpg",
+
+        "description":"Delicately crafted with timeless charm, this 18-karat gold bird cage necklace captures a story of freedom and beauty. The intricately detailed pendant features a miniature cage design—elegant, symbolic, and endlessly enchanting. "
+    },
+    {
+        "id": 4,
+        "name": "Cross Gold Necklace",
+        "price": 8360,
+        "image": "Assets/image/productImage/Necklace/crossnecklace.jpg",
+        "description":"A symbol of faith, strength, and grace—this 18-karat gold cross necklace blends classic design with modern elegance. Meticulously crafted with a polished finish, the cross pendant hangs from a fine gold chain, making it perfect for everyday wear or special occasions."
+    }
+    
+]

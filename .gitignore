@@ -1,0 +1,26 @@
+# Environment and sensitive files
+.env
+.env.*
+!.env.example
+
+# Dependencies
+/vendor/
+/node_modules/
+
+# Logs
+*.log
+
+# Operating system files
+.DS_Store
+Thumbs.db
+
+# IDE settings
+.idea/
+
+# Customer identification uploads
+/customer/uploads/customer_ids/
+
+# Environment and sensitive files
+.env
+.env.*
+!.env.example
