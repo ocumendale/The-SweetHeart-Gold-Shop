@@ -27,7 +27,7 @@ For a more comprehensive discussion of the project, including its background, ob
 
 ## Disclaimer
 
-This project was collaboratively developed as part of our academic requirements. This repository is a fork of the original group repository, maintained for portfolio presentation and personal documentation.
+This project was collaboratively developed as part of our academic requirements. This repository is a copy of the original group repository, maintained for portfolio presentation and personal documentation.
 
 All original contributions and ownership belong to their respective contributors.
 
